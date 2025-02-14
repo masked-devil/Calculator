@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.CalculatorTest" time="0.607" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\91935\Desktop\WorldLine_Training\L2\Jenkins\Calculator\target\test-classes;C:\Users\91935\Desktop\WorldLine_Training\L2\Jenkins\Calculator\target\classes;C:\Users\91935\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\91935\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\91935\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="D:\Program Files\Java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\91935\AppData\Local\Temp\surefire2913181023555833035\surefirebooter11815518836917103344.jar C:\Users\91935\AppData\Local\Temp\surefire2913181023555833035 2025-02-14T16-17-17_582-jvmRun1 surefire15009727223305850623tmp surefire_03004558400282765566tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\91935\Desktop\WorldLine_Training\L2\Jenkins\Calculator\target\test-classes;C:\Users\91935\Desktop\WorldLine_Training\L2\Jenkins\Calculator\target\classes;C:\Users\91935\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\91935\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\91935\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\91935"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-07-16"/>
+    <property name="java.home" value="D:\Program Files\Java\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\91935\Desktop\WorldLine_Training\L2\Jenkins\Calculator"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\91935\AppData\Local\Temp\surefire2913181023555833035\surefirebooter11815518836917103344.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.12+8-LTS-286"/>
+    <property name="user.name" value="91935"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\91935\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\91935\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.12"/>
+    <property name="user.dir" value="C:\Users\91935\Desktop\WorldLine_Training\L2\Jenkins\Calculator"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="D:\Program Files\Java\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\91935\.cargo\bin;C:\Users\91935\AppData\Local\Microsoft\WindowsApps;C:\Users\91935\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\91935\AppData\Local\Microsoft\WindowsApps;C:\src\flutter\bin;C:\Program Files\LLVM\bin;C:\msys64\ucrt64\bin;C:\Users\91935\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Users\91935\AppData\Local\Pub\Cache\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Windows;C:\Windows\System32;C:\Windows\System32\Wbem;C:\Program Files\PostgreSQL\17\bin;D:\Program Files\SonarQube\sonarqube-10.4.1.88267\bin\windows-x86-64;D:\Program Files\Java\jdk-17\\bin;C:\Users\91935\Downloads\sonar-scanner-cli-6.2.1.4610-windows-x64\sonar-scanner-6.2.1.4610-windows-x64\bin;C:\Users\91935\AppData\Local\Programs\Python\Python312\Scripts;C:\Users\91935\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\Scripts;C:\Program Files\Docker\Docker\resources\bin;C:\maven\apache-maven-3.9.9\bin;C:\Users\91935\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\91935\AppData\Local\Programs\Python\Python312\;C:\Users\91935\.cargo\bin;C:\Users\91935\AppData\Local\Microsoft\WindowsApps;C:\Users\91935\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\91935\AppData\Local\Microsoft\WindowsApps;C:\src\flutter\bin;C:\Program Files\LLVM\bin;C:\msys64\ucrt64\bin;C:\Users\91935\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Users\91935\AppData\Local\Pub\Cache\bin;C:\Users\91935\AppData\Local\GitHubDesktop\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.12+8-LTS-286"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testAdd" classname="com.example.CalculatorTest" time="0.008"/>
+</testsuite>
